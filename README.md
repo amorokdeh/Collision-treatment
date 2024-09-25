@@ -12,3 +12,6 @@ The **Collision Treatment** project simulates the interaction between two circle
 - **Programming Language**: MATLAB
 - **Mathematics**: Physics-based calculations for momentum and velocity
 - **Visualization**: MATLAB's built-in plotting functions for graphical representation
+
+## 🎥 Demo
+- Watch the project in action: [YouTube Link](https://www.youtube.com/watch?v=3C4kWuKJZGI)
